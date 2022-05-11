@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7de6c7bd-b300-4ce2-9b29-bd498a2c689e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1m40wWdmo9v3lRksE5xenUoI3kP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PHP\phpweb\Xem_diem" />
+      <recent name="E:\phpweb\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.login.php">
+    <configuration name="test_LFI.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/phpweb/test_LFI.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/login.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.login.php" />
+        <item itemvalue="JavaScript Debug.test_LFI.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7de6c7bd-b300-4ce2-9b29-bd498a2c689e" name="Default Changelist" comment="" />
+      <created>1608737794718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608737794718</updated>
+      <workItem from="1608737795821" duration="12154000" />
+      <workItem from="1608816442776" duration="2123000" />
+      <workItem from="1611674633180" duration="11066000" />
+      <workItem from="1612188006934" duration="126000" />
+      <workItem from="1618800638134" duration="649000" />
+      <workItem from="1618836704911" duration="48000" />
+      <workItem from="1625423847338" duration="1609000" />
+      <workItem from="1628474123965" duration="2149000" />
+      <workItem from="1628492265886" duration="745000" />
+      <workItem from="1628594970888" duration="675000" />
+      <workItem from="1639574614917" duration="1588000" />
+      <workItem from="1639576266443" duration="11402000" />
+      <workItem from="1639621544868" duration="10208000" />
+      <workItem from="1639735944999" duration="9473000" />
+      <workItem from="1639800045268" duration="10686000" />
+      <workItem from="1639825152839" duration="9779000" />
+      <workItem from="1640080272532" duration="9138000" />
+      <workItem from="1640285816740" duration="594000" />
+      <workItem from="1640286870148" duration="835000" />
+      <workItem from="1640328399178" duration="7702000" />
+      <workItem from="1640597715892" duration="2608000" />
+      <workItem from="1640669450080" duration="3158000" />
+      <workItem from="1651061286381" duration="1751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639599843260">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="455" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1304.768@0.0.1304.768" timestamp="1639599843260" />
+    <state x="486" y="307" key="NewPhpFileDialog" timestamp="1639826487862">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="486" y="307" key="NewPhpFileDialog/0.0.1304.768@0.0.1304.768" timestamp="1639826487862" />
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1639819225411">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1639819225411" />
+  </component>
+</project>
